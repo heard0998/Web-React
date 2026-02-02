@@ -26,7 +26,7 @@ function History() {
                         boxShadow: 'var(--shadow-md)'
                     }}>
                         <img
-                            src="/web/images/oersted.png"
+                            src="/images/oersted.png"
                             alt="Hans Christian Ørsted"
                             style={{
                                 width: '100%',
@@ -106,7 +106,7 @@ function History() {
                         boxShadow: 'var(--shadow-md)'
                     }}>
                         <img
-                            src="/web/images/fleming.png"
+                            src="/images/fleming.png"
                             alt="John Ambrose Fleming"
                             style={{
                                 width: '100%',
