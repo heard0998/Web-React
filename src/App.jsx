@@ -7,7 +7,7 @@ import HistoryPage from './pages/HistoryPage'
 
 function App() {
     return (
-        <Router basename="/web">
+        <Router>
             <div className="app">
                 <Navigation />
                 <Routes>
